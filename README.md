@@ -20,6 +20,11 @@ Package details websites :
 
 This work is licenced via the [DBAD Public Licence](http://www.dbad-license.org/).
 
+#Installation
+-
+
+`npm install node-cmd`
+
 
 #Methods
 -
@@ -65,3 +70,4 @@ This work is licenced via the [DBAD Public Licence](http://www.dbad-license.org/
     );
 
 ```
+
